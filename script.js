@@ -4,6 +4,7 @@ window.digitalData = {
         "name":"Home Page",
         "url":"https://maurice522.github.io/htmlwebsiteswa/",
         "title": "Welcome to Swalalala life , Maurice Rana",
-        "server": "github"
+        "server": "github",
+        "list": "Example value 1,Example value 2,Example value 3"
     }
 }
