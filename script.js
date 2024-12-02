@@ -8,3 +8,4 @@ window.digitalData = {
         "list": "Example value 1,Example value 2,Example value 3"
     }
 }
+console.log("List evar set");
