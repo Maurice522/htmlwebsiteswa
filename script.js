@@ -1,4 +1,12 @@
 console.log("Script running!");
+
+var false_val = false;
+var true_val = true;
+
+window.addEventListener("pagehide", function(e) { 
+    console.log("pagehide :====");
+});
+
 window.digitalData = {
     "page":{
         "name":"Home Page",
