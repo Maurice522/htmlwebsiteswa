@@ -18,8 +18,8 @@ window.digitalData = {
 }
 console.log("List evar set");
 
-function targetPageParams() {
-return {
-  "at_property": "ff2c8700-fbca-caba-950c-3988d617107c"
-};
-}
+// function targetPageParams() {
+// return {
+//   "at_property": "ff2c8700-fbca-caba-950c-3988d617107c"
+// };
+// }
